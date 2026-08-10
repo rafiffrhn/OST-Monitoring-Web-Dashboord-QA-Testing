@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-008 - NAME EMPTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>11c7273f-5f1e-45ff-abac-f6ca9be7e9ef</testCaseGuid>
+</TestCaseEntity>

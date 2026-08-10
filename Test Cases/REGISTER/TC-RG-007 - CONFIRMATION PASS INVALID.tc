@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-007 - CONFIRMATION PASS INVALID</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b241ecc-03bb-43f1-9290-359439f7550c</testCaseGuid>
+</TestCaseEntity>

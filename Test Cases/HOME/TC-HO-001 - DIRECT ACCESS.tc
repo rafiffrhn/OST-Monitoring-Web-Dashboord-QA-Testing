@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-HO-001 - DIRECT ACCESS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>50e83a80-097a-40b3-ae91-f09a1a9f855a</testCaseGuid>
+</TestCaseEntity>

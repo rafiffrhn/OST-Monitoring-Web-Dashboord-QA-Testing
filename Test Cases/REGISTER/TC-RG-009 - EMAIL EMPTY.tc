@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-009 - EMAIL EMPTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e22a2e75-5b13-45db-b8fc-280b99a97627</testCaseGuid>
+</TestCaseEntity>

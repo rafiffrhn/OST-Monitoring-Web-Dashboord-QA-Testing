@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-004 - RG EMAIL WRONG FORMAT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9db6edd3-470f-4f11-a537-0cd00654931f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-HO-004 - DM CARD</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>801edc0f-4376-45d8-8d42-bf1fbb2c866e</testCaseGuid>
+</TestCaseEntity>

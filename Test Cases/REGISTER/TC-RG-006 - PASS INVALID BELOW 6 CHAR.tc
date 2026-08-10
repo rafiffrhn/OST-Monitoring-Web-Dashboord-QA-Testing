@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-006 - PASS INVALID BELOW 6 CHAR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9d186eec-54c4-4c1a-b1c7-b860be22367f</testCaseGuid>
+</TestCaseEntity>

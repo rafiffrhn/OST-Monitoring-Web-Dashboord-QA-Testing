@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LG-005 - EMPTY PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d780f6ff-01e6-4952-8a11-7809fd533df2</testCaseGuid>
+</TestCaseEntity>

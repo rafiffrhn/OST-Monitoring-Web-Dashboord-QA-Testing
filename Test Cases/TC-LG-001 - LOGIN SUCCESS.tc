@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LG-001 - LOGIN SUCCESS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>121bfc99-f56a-496a-8759-75ecada978db</testCaseGuid>
+</TestCaseEntity>

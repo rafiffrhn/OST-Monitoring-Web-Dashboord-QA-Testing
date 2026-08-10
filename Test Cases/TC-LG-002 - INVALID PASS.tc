@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LG-002 - INVALID PASS</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f327a99b-1cf8-4184-84d5-97b35fc2f302</testCaseGuid>
+</TestCaseEntity>

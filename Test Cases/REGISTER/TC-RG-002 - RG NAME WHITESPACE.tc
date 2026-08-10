@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-002 - RG NAME WHITESPACE</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c9a48492-6305-4416-bf72-5a260c3838a4</testCaseGuid>
+</TestCaseEntity>

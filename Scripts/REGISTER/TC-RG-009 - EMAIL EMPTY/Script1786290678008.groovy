@@ -1,0 +1,41 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost:5173/register')
+
+WebUI.setText(findTestObject('Page_OST Monitoring System - PT. CPKA/Page_OST Monitoring System - PT. CPKA/input_Masukkan nama lengkap'), 
+    'SIM32')
+
+WebUI.setText(findTestObject('Page_OST Monitoring System - PT. CPKA/Page_OST Monitoring System - PT. CPKA/input_Masukkan email'), 
+    'simuu@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Page_OST Monitoring System - PT. CPKA/Page_OST Monitoring System - PT. CPKA/input_Masukkan password'), 
+    'jzPxH1Vq910=')
+
+WebUI.setEncryptedText(findTestObject('Page_OST Monitoring System - PT. CPKA/Page_OST Monitoring System - PT. CPKA/input_Konfirmasi password'), 
+    'z+xmNpi6ATntmTx1EGt9bQ==')
+
+WebUI.click(findTestObject('Page_OST Monitoring System - PT. CPKA/Page_OST Monitoring System - PT. CPKA/button_DAFTAR'))
+
+actualMsg = WebUI.executeJavaScript('return document.querySelector(\'input[type="email"]\').validationMessage;', [])
+
+WebUI.verifyEqual(actualMsg, 'Please fill out this field.')
+

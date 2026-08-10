@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-005 - PASS BOUND TEST</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc0fdb22-e3f5-473a-974f-283880553d28</testCaseGuid>
+</TestCaseEntity>

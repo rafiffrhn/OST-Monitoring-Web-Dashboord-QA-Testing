@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-RG-011 - CONFIRMATION PASS EMPTY</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1265d4ac-596c-4b01-91f7-5dbf9ffb8ddd</testCaseGuid>
+</TestCaseEntity>

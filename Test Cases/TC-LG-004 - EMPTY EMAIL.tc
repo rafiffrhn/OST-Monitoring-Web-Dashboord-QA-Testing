@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-LG-004 - EMPTY EMAIL</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3f82b752-9273-4200-bcf4-fb19e8129201</testCaseGuid>
+</TestCaseEntity>
